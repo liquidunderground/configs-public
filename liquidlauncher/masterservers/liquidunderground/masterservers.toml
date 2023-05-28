@@ -1,0 +1,8 @@
+[masterservers.STJr]
+url = "http://mb.srb2.org/MS/0"
+api = "v1"
+
+[masterservers."Kart Krew"]
+url = "https://ms.kartkrew.org/ms/api/games/SRB2Kart/10"
+api = "kartv2"
+
